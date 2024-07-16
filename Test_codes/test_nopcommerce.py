@@ -83,7 +83,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -167,7 +167,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -228,7 +228,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -306,7 +306,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -384,7 +384,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -462,7 +462,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
@@ -524,7 +524,7 @@ class TestNopCommerce:
         )
         Email1.send_keys(data2.TestData.email2)
 
-        # Enter the (password: admin123).
+        # Enter the (password: Admin123).
 
         password3 = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.NAME, data2.TestSelectors.password_input_3))
