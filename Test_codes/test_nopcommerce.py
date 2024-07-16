@@ -269,7 +269,7 @@ class TestNopCommerce:
         print(text1)
         Privacy_notice.click()
 
-        # 4) Site map:
+        # 4) Conditions of Use:
         Conditions_of_use = WebDriverWait(self.driver, 10).until(
             EC.element_to_be_clickable((By.XPATH, data2.TestSelectors.conditions_of_use_xpath))
         )
